@@ -12,5 +12,12 @@ namespace AISLTP.Controllers
         {
             return View();
         }
+
+        public ActionResult Spravochniki()
+        {
+            return View();
+        }
+
+
     }
 }
